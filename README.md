@@ -80,7 +80,7 @@ You can choose any one Roadmap and follow the path as per instruction mentioned 
 - [DevOps](https://roadmap.sh/devops)
   <details close>
    <summary>Who is a devOps engineer></summary>
-   <br><br>
+   <br>
       A DevOps engineer is an IT generalist who should have a wide-ranging knowledge of both development and operations, including coding, infrastructure management, system administration, and DevOps toolchains. DevOps engineers should also possess interpersonal skills since they work across company silos to create a more collaborative environment. 
       <br><br>
       DevOps engineers need to have a strong understanding of common system architecture, provisioning, and administration, but must also have experience with the traditional developer toolset and practices such as using source control, giving and receiving code reviews, writing unit tests, and familiarity with agile principles.
@@ -88,10 +88,13 @@ You can choose any one Roadmap and follow the path as per instruction mentioned 
 
    <details close>
       <summary>What does an devOps engineer do?</summary>
-      <br><br>
+      <br>
       - The role of a DevOps engineer will vary from one organization to another, but invariably entails some combination of release engineering, infrastructure provisioning and management, system administration, security, and DevOps advocacy. 
+      <br>
       - Release engineering includes the work required to build and deploy application code. The exact tools and processes vary widely depending on many variables, such as what language the code is written in, how much of the pipeline has been automated, and whether the production infrastructure is on-premise or in the cloud. Release engineering might entail selecting, provisioning, and maintaining CI/CD tooling or writing and maintaining bespoke build/deploy scripts.
+      <br>
       - Infrastructure provisioning and system administration include deploying and maintaining the servers, storage, and networking resources required to host applications. For organizations with on-premise resources this might include managing physical servers, storage devices, switches, and virtualization software in a data center. For a hybrid or entirely cloud-based organization this will usually include provisioning and managing virtual instances of the same components. 
+      <br>
       - DevOps advocacy is often undervalued or overlooked entirely, but is arguably the most important role of a DevOps engineer. The shift to a DevOps culture can be disruptive and confusing to the engineering team members. As the DevOps subject matter expert, it falls to the DevOps engineer to help evangelize and educate the DevOps way across the organization.
       <br>
       </details>
