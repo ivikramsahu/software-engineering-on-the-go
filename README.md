@@ -78,3 +78,20 @@ You can choose any one Roadmap and follow the path as per instruction mentioned 
          When developing a website, programmers are required to write backend code to add utility to the functionality of each frontend. For example, to add functionality to a user login form, they must write code using a server-side programming language. The backend code collects the values each time a user enters his login credentials and compares them with the login data stored in databases. <br><br> Similarly, the backend code adds functionality to different forms, profiles, and accounts. Without quality backend technology, thus, no website will work.
 
 - [DevOps](https://roadmap.sh/devops)
+  <details close>
+   <summary>Who is a devOps engineer></summary>
+   <br><br>
+      A DevOps engineer is an IT generalist who should have a wide-ranging knowledge of both development and operations, including coding, infrastructure management, system administration, and DevOps toolchains. DevOps engineers should also possess interpersonal skills since they work across company silos to create a more collaborative environment. 
+      <br><br>
+      DevOps engineers need to have a strong understanding of common system architecture, provisioning, and administration, but must also have experience with the traditional developer toolset and practices such as using source control, giving and receiving code reviews, writing unit tests, and familiarity with agile principles.
+   </details>
+
+   <details close>
+      <summary>What does an devOps engineer do?</summary>
+      <br><br>
+      - The role of a DevOps engineer will vary from one organization to another, but invariably entails some combination of release engineering, infrastructure provisioning and management, system administration, security, and DevOps advocacy. 
+      - Release engineering includes the work required to build and deploy application code. The exact tools and processes vary widely depending on many variables, such as what language the code is written in, how much of the pipeline has been automated, and whether the production infrastructure is on-premise or in the cloud. Release engineering might entail selecting, provisioning, and maintaining CI/CD tooling or writing and maintaining bespoke build/deploy scripts.
+      - Infrastructure provisioning and system administration include deploying and maintaining the servers, storage, and networking resources required to host applications. For organizations with on-premise resources this might include managing physical servers, storage devices, switches, and virtualization software in a data center. For a hybrid or entirely cloud-based organization this will usually include provisioning and managing virtual instances of the same components. 
+      - DevOps advocacy is often undervalued or overlooked entirely, but is arguably the most important role of a DevOps engineer. The shift to a DevOps culture can be disruptive and confusing to the engineering team members. As the DevOps subject matter expert, it falls to the DevOps engineer to help evangelize and educate the DevOps way across the organization.
+      <br>
+      </details>
