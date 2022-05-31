@@ -90,11 +90,11 @@ You can choose any one Roadmap and follow the path as per instruction mentioned 
       <summary>What does an devOps engineer do?</summary>
       <br>
       - The role of a DevOps engineer will vary from one organization to another, but invariably entails some combination of release engineering, infrastructure provisioning and management, system administration, security, and DevOps advocacy. 
-      <br>
+      <br><br>
       - Release engineering includes the work required to build and deploy application code. The exact tools and processes vary widely depending on many variables, such as what language the code is written in, how much of the pipeline has been automated, and whether the production infrastructure is on-premise or in the cloud. Release engineering might entail selecting, provisioning, and maintaining CI/CD tooling or writing and maintaining bespoke build/deploy scripts.
-      <br>
+      <br><br>
       - Infrastructure provisioning and system administration include deploying and maintaining the servers, storage, and networking resources required to host applications. For organizations with on-premise resources this might include managing physical servers, storage devices, switches, and virtualization software in a data center. For a hybrid or entirely cloud-based organization this will usually include provisioning and managing virtual instances of the same components. 
-      <br>
+      <br><br>
       - DevOps advocacy is often undervalued or overlooked entirely, but is arguably the most important role of a DevOps engineer. The shift to a DevOps culture can be disruptive and confusing to the engineering team members. As the DevOps subject matter expert, it falls to the DevOps engineer to help evangelize and educate the DevOps way across the organization.
       <br>
       </details>
