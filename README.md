@@ -1,6 +1,6 @@
 ## Computer Science for Everyone
 
-I have been in Software engineer for almost 6+ years now. Having hands-on experience on multiple programming languages, databases (SQL and NoSQL), servers, and few others that change over the period of time. So you can assume of _**Jack of all trades but master of none**_.While I know about programming and how software can scale, there is always a common problem that every software engineer feels within that is **the imposter syndrome**.
+I have been in Software engineer for almost 6+ years now. Having hands-on experience on multiple programming languages, databases (SQL and NoSQL), servers, and few others that change over the period of time. So you can assume me  _**Jack of all trades but master of none**_. While I know about programming and how software can scale, there is always a common problem that every software engineer feels within that is **the imposter syndrome**.
 
 I have been going throught the same feelings and while these one of the common things in tech always keep yourself motivate and keep learning new things. So, I have decided to create a roadmap for all those who feels just like me and have been going though same phase of their career.
 
@@ -98,3 +98,18 @@ You can choose any one Roadmap and follow the path as per instruction mentioned 
       - DevOps advocacy is often undervalued or overlooked entirely, but is arguably the most important role of a DevOps engineer. The shift to a DevOps culture can be disruptive and confusing to the engineering team members. As the DevOps subject matter expert, it falls to the DevOps engineer to help evangelize and educate the DevOps way across the organization.
       <br>
       </details>
+
+
+## Table of Content
+
+- How computer functions?
+- What is Internet?
+   - Who founded internet?
+   - How internet works?
+   - Who runs the internet?
+   - Wires, Cables, and Wi-Fi
+   - IP Addresses and DNS
+   - Packets, Routing, and Reliability
+   - HTTP and HTML
+   - Encryption and Public Keys
+
