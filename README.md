@@ -103,6 +103,8 @@ You can choose any one Roadmap and follow the path as per instruction mentioned 
 ## Table of Content
 
 - How computer functions?
+   - Computer peripherals
+   - How computer operates based on I/O commands and signal?
 - What is Internet?
    - Who founded internet?
    - How internet works?
@@ -112,4 +114,4 @@ You can choose any one Roadmap and follow the path as per instruction mentioned 
    - Packets, Routing, and Reliability
    - HTTP and HTML
    - Encryption and Public Keys
-
+- 
