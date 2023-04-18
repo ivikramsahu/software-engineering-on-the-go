@@ -114,4 +114,18 @@ You can choose any one Roadmap and follow the path as per instruction mentioned 
    - Packets, Routing, and Reliability
    - HTTP and HTML
    - Encryption and Public Keys
-- 
+- What are data structures and algorithms?
+    1) Array
+    2) String
+    3) Linked List
+    4) Searching Algorithm
+    5) Sorting Algorithm
+    6) Divide and Conquer Algorithm
+    7) Stack
+    8) Queue
+    9) Tree Data Structure
+    10) Graph Data Structure
+    11) Greedy Mehtodology
+    12) Recursion
+    13) Backtracking Algorithm
+    14) Dynamic Programming
